@@ -24,4 +24,5 @@ image classification using python, keras and tensorflow for keras
     6. after creating put the model.py file in the folder named data and run it with command "python3 ./model.py" if you are using a terminal.
     7. Save a .h5 model in the same directory.
  #### Results
+    1. This is after only 2 epochs
  ![result](https://raw.githubusercontent.com/Aakash-kaushik/image_classification/master/result.png)

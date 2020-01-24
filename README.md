@@ -7,6 +7,7 @@ image classification using python, keras and tensorflow for keras
     3. processed and augmented the data with keras.preprocessing.image because i had less amount of examples to train and test on
     4. implemented a CNN with help of keras and tensorflow in background
     5. compiled and trained the model 
+    6. Gives a .h5 model
  #### steps to run through
     1. first run the scrape_modak.py and scrape_not_modak.py scripts to download the images
     2. keep the in two folders one containing modak and other not_modak
@@ -20,6 +21,7 @@ image classification using python, keras and tensorflow for keras
         |train
           |modak
           |not_modak
-    6. after crreating put the model.py file in the folder named data and run it with command "python3 ./model.py" if you are using a terminal.
+    6. after creating put the model.py file in the folder named data and run it with command "python3 ./model.py" if you are using a terminal.
+    7. Save a .h5 model in the same directory.
  #### Results
  ![result](https://raw.githubusercontent.com/Aakash-kaushik/image_classification/master/result.png)

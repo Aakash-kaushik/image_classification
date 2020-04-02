@@ -1,5 +1,5 @@
 # image_classification
-image classification using python, keras and tensorflow for keras 
+image classification using keras.
 
   #### Approach
     1. Downloaded the images from google images contaning modak and india sweets(without modak)

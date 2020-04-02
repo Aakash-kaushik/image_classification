@@ -32,4 +32,4 @@ test_generator=datagen.flow_from_directory('test',target_size=(300,300),batch_si
 
 model.fit_generator(train_generator,steps_per_epoch=5311,epochs=5,validation_data=test_generator,validation_steps=2655)
 
-model.save_weights('50_epochs.h5')
+model.save_weights('5_epochs.h5')
